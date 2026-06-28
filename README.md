@@ -14,6 +14,7 @@ Why Use Oxygen?
 License: Not chosen yet
 Source: Closed Source, Only .app/.dmg, .apk, .exe no source code.
 Data Collection: None. Oxygen does not collect, store, or transmit any personal information, usage statistics, System Data
+While this does sound suspicious, and too good to be true you can upload the .app.zip/.app/.exe/.apk to VirusTotal
 
 Release date in 2027
 However Alpha, Beta versions will still be released every weeks or months
